@@ -8,11 +8,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 # Projects
 
-* [hvnsweeting/birth-reminder](https://github.com/hvnsweeting/birth-reminder) - A script sends birthday reminder or happybirthday to emails in csv data file.
-* [tudoanh/bookzen](https://github.com/tudoanh/bookzen) - Compare online price of books. Also find and show the hashtag of book's name on Instagram. Homepage: tudoanh.github.io/bookzen
-* [hvnsweeting/dwc](https://github.com/hvnsweeting/dwc) - `wc -l` clone in Python, plus support directory as argument
-* [hvnsweeting/phg](https://github.com/hvnsweeting/phg) - Password hasher and generator utility
-* [hvnsweeting/pjv](https://github.com/hvnsweeting/pjv) - Python JSON Validator
+{projects}
 
 # Hỏi đáp Python, Django...
 
