@@ -21,6 +21,6 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 # Đóng góp
 
 - Project phải là của bạn.
-- Thêm link GitHub của project vào cuối file `projects.csv`, dùng dấu ';' để
+- Thêm link GitHub của project vào cuối file `projects.csv`, dùng dấu `;` để
   phân cách với phần mô tả project.
 - Chạy file `main.py` rồi commit thay đổi vào tạo [Pull Request](https://github.com/pymivn/awesome/pulls).
