@@ -6,7 +6,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 - - -
 
-## TODO
+# Projects
 
 * [hvnsweeting/birth-reminder](https://github.com/hvnsweeting/birth-reminder) - A script sends birthday reminder or happybirthday to emails in csv data file.
 * [hvnsweeting/dwc](https://github.com/hvnsweeting/dwc) - `wc -l` clone in Python, plus support directory as argument
@@ -17,6 +17,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 - Vào http://invite.pymi.vn/ nhập email rồi đợi thư mời gia nhập.
 
-# Contributing
+# Đóng góp
 
 - Project phải là của bạn.
+- Các project sắp xếp theo thứ tự bảng chữ cái.
