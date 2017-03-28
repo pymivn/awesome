@@ -15,7 +15,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 # Hỏi đáp Python, Django...
 
-- Vào http://invite.pymi.vn/ nhập email rồi đợi thư mời ra nhập.
+- Vào http://invite.pymi.vn/ nhập email rồi đợi thư mời gia nhập.
 
 # Contributing
 
