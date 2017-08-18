@@ -17,7 +17,7 @@ def main():
             project[k] = v.strip()
         projects.append(project)
 
-    projects.sort(key=lambda x: x['name'])
+    projects.sort(key=lambda x: x['name'].lower())
     formatted = []
     for project in projects:
         formatted.append(FORMAT.format(**project))
