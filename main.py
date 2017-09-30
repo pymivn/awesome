@@ -11,7 +11,8 @@ def main():
 
     projects = []
     for project in dr:
-        project['user'], project['name'] = project['link'].split('/')[-2:]
+        cleaned = project['link'].strip('/')
+        project['user'], project['name'] = cleaned.split('/')[-2:]
 
         for k, v in project.items():
             project[k] = v.strip()
