@@ -8,11 +8,11 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 # Projects
 
-* [no_accent_python3/](https://github.com/tikikun/no_accent_python3/) - No accent, just raw Vietnamese
 * [hvnsweeting/birth-reminder](https://github.com/hvnsweeting/birth-reminder) - A script sends birthday reminder or happybirthday to emails in csv data file.
 * [tudoanh/bookzen](https://github.com/tudoanh/bookzen) - Compare online price of books. Also find and show the hashtag of book's name on Instagram. Homepage: https://bookzen.top
 * [hvnsweeting/dwc](https://github.com/hvnsweeting/dwc) - `wc -l` clone in Python, plus support directory as argument
 * [tudoanh/get_fshare](https://github.com/tudoanh/get_fshare) - Python library to get Fshare link with your account.
+* [tikikun/no_accent_python3](https://github.com/tikikun/no_accent_python3) - No accent, just raw Vietnamese
 * [hvnsweeting/phg](https://github.com/hvnsweeting/phg) - Password hasher and generator utility
 * [hvnsweeting/pjv](https://github.com/hvnsweeting/pjv) - Python JSON Validator
 * [tudoanh/python-facebook-bot](https://github.com/tudoanh/python-facebook-bot) - Get facebook events from location with Python 3
