@@ -13,9 +13,13 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [dosontung007/DST-Bot](https://github.com/dosontung007/DST-Bot) - My Facebook Messages bot
 * [hvnsweeting/dwc](https://github.com/hvnsweeting/dwc) - `wc -l` clone in Python, plus support directory as argument
 * [tudoanh/get_fshare](https://github.com/tudoanh/get_fshare) - Python library to get Fshare link with your account.
+* [hvnsweeting/holdmykeys](https://github.com/hvnsweeting/holdmykeys) - Autonomous SSH public keys management - tự động đồng bộ key SSH trên các máy dựa vào key trên GitHub.
+* [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and dosontung007" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
 * [tikikun/no_accent_python3](https://github.com/tikikun/no_accent_python3) - No accent, just raw Vietnamese
+* [hvnsweeting/outspect](https://github.com/hvnsweeting/outspect) - Python inspect for Humans - truy cập nhanh functions, class, constant... trong modules
 * [hvnsweeting/phg](https://github.com/hvnsweeting/phg) - Password hasher and generator utility
 * [hvnsweeting/pjv](https://github.com/hvnsweeting/pjv) - Python JSON Validator
+* [hvnsweeting/pomop](https://github.com/hvnsweeting/pomop) - Poor man pomodoro - CLI pomodoro tools - đồng hồ báo phiên làm việc
 * [tudoanh/python-facebook-bot](https://github.com/tudoanh/python-facebook-bot) - Get facebook events from location with Python 3
 * [dactoankmapydev/PYTUDI](https://github.com/dactoankmapydev/PYTUDI) - English-Vietnamese,Vietnamese-English dictionary online
 * [dosontung007/VietsubPE](https://github.com/dosontung007/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Homepage: https://dosontung007.github.io/VietsubPE/
