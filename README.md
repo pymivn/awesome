@@ -21,6 +21,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [hvnsweeting/pjv](https://github.com/hvnsweeting/pjv) - Python JSON Validator
 * [hvnsweeting/pomop](https://github.com/hvnsweeting/pomop) - Poor man pomodoro - CLI pomodoro tools - đồng hồ báo phiên làm việc
 * [tudoanh/python-facebook-bot](https://github.com/tudoanh/python-facebook-bot) - Get facebook events from location with Python 3
+* [quangvinh86/python-projecteuler](https://github.com/quangvinh86/python-projecteuler) - Code và phân tích "chiến lược" để giải các bài toán trên https://projecteuler.net bằng tiếng Việt.
 * [dactoankmapydev/PYTUDI](https://github.com/dactoankmapydev/PYTUDI) - English-Vietnamese,Vietnamese-English dictionary online
 * [dosontung007/VietsubPE](https://github.com/dosontung007/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Homepage: https://dosontung007.github.io/VietsubPE/
 
