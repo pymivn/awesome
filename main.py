@@ -24,10 +24,27 @@ def main():
         formatted.append(FORMAT.format(**project))
 
     projects = '\n'.join(formatted)
+
+    blogs = []
+    blogdr = csv.DictReader(open('blogs.csv'),
+                            ['user', 'bloglink', 'description'],
+                            delimiter=';')
+    for blog in blogdr:
+        cleaned = blog['user'].strip('/')
+        blog['github'] = cleaned
+        blog['user'] = cleaned.split('/')[-1]
+        for k, v in blog.items():
+            blog[k] = v.strip()
+        blogs.append(blog)
+
+    blogs.sort(key=lambda x: x['user'].lower())
+    BLOG_FORMAT = '* [{user}]({github}) - {bloglink}: {description}'
+    blogs = '\n'.join(BLOG_FORMAT.format(**blog) for blog in blogs)
+
     with open('template.tpl') as f:
         tpl = f.read()
     with open('README.md', 'w') as f:
-        f.write(tpl.format(projects=projects))
+        f.write(tpl.format(projects=projects, blogs=blogs))
 
 
 if __name__ == "__main__":
