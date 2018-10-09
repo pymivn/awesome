@@ -25,6 +25,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [quangvinh86/python-projecteuler](https://github.com/quangvinh86/python-projecteuler) - Code và phân tích "chiến lược" để giải các bài toán trên https://projecteuler.net bằng tiếng Việt.
 * [dactoankmapydev/PYTUDI](https://github.com/dactoankmapydev/PYTUDI) - English-Vietnamese,Vietnamese-English dictionary online
 * [dosontung007/VietsubPE](https://github.com/dosontung007/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Homepage: https://dosontung007.github.io/VietsubPE/
+* [tung491/wattpad_ebook_web](https://github.com/tung491/wattpad_ebook_web) - "Generate ebook from Wattpad stories. Website: https://www.wattpadebook.xyz/"
 
 # Hỏi đáp Python, Django...
 
