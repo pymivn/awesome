@@ -10,12 +10,12 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 * [hvnsweeting/birth-reminder](https://github.com/hvnsweeting/birth-reminder) - A script sends birthday reminder or happybirthday to emails in csv data file.
 * [tudoanh/bookzen](https://github.com/tudoanh/bookzen) - Compare online price of books. Also find and show the hashtag of book's name on Instagram. Homepage: https://bookzen.top
-* [dosontung007/DST-Bot](https://github.com/dosontung007/DST-Bot) - My Facebook Messages bot
+* [tung491/DST-Bot](https://github.com/tung491/DST-Bot) - My Facebook Messages bot
 * [hvnsweeting/dwc](https://github.com/hvnsweeting/dwc) - `wc -l` clone in Python, plus support directory as argument
 * [tudoanh/get_fshare](https://github.com/tudoanh/get_fshare) - Python library to get Fshare link with your account.
 * [TranDatDT/getlink_fshare](https://github.com/TranDatDT/getlink_fshare) - Python library to get Fshare Premier link, support files with password, no need an account to get a normal link.
 * [hvnsweeting/holdmykeys](https://github.com/hvnsweeting/holdmykeys) - Autonomous SSH public keys management - tự động đồng bộ key SSH trên các máy dựa vào key trên GitHub.
-* [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and dosontung007" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
+* [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and tung491" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
 * [tikikun/no_accent_python3](https://github.com/tikikun/no_accent_python3) - No accent, just raw Vietnamese
 * [hvnsweeting/outspect](https://github.com/hvnsweeting/outspect) - Python inspect for Humans - truy cập nhanh functions, class, constant... trong modules
 * [hvnsweeting/phg](https://github.com/hvnsweeting/phg) - Password hasher and generator utility
@@ -24,7 +24,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [tudoanh/python-facebook-bot](https://github.com/tudoanh/python-facebook-bot) - Get facebook events from location with Python 3
 * [quangvinh86/python-projecteuler](https://github.com/quangvinh86/python-projecteuler) - Code và phân tích "chiến lược" để giải các bài toán trên https://projecteuler.net bằng tiếng Việt.
 * [dactoankmapydev/PYTUDI](https://github.com/dactoankmapydev/PYTUDI) - English-Vietnamese,Vietnamese-English dictionary online
-* [dosontung007/VietsubPE](https://github.com/dosontung007/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Homepage: https://dosontung007.github.io/VietsubPE/
+* [tung491/VietsubPE](https://github.com/tung491/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Website: https://vietsubpe.xyz/
 * [tung491/wattpad_ebook_web](https://github.com/tung491/wattpad_ebook_web) - "Generate ebook from Wattpad stories. Website: https://www.wattpadebook.xyz/"
 
 # Hỏi đáp Python, Django...
