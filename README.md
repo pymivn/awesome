@@ -15,6 +15,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [tudoanh/get_fshare](https://github.com/tudoanh/get_fshare) - Python library to get Fshare link with your account.
 * [TranDatDT/getlink_fshare](https://github.com/TranDatDT/getlink_fshare) - Python library to get Fshare Premier link, support files with password, no need an account to get a normal link.
 * [hvnsweeting/holdmykeys](https://github.com/hvnsweeting/holdmykeys) - Autonomous SSH public keys management - tự động đồng bộ key SSH trên các máy dựa vào key trên GitHub.
+* [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and dosontung007" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
 * [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and tung491" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
 * [tikikun/no_accent_python3](https://github.com/tikikun/no_accent_python3) - No accent, just raw Vietnamese
 * [hvnsweeting/outspect](https://github.com/hvnsweeting/outspect) - Python inspect for Humans - truy cập nhanh functions, class, constant... trong modules
