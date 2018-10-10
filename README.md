@@ -35,6 +35,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 # Blogs
 * [hvnsweeting](https://github.com/hvnsweeting) - http://www.familug.org/: Blog vể Python, Linux, programming...
 * [pymivn](https://github.com/pymivn) - https://medium.com/pymi: Blog của PyMi.vn về Python, data analysis, machine learning
+* [tung491](https://github.com/tung491) - https://medium.com/@dosontung007: Blog cá nhân của tung491 về trà sữa, Python, programming...
 
 # Đóng góp
 
