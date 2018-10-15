@@ -17,6 +17,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [hvnsweeting/holdmykeys](https://github.com/hvnsweeting/holdmykeys) - Autonomous SSH public keys management - tự động đồng bộ key SSH trên các máy dựa vào key trên GitHub.
 * [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and dosontung007" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
 * [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and tung491" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
+* [TranDatDT/n-queens-simulated-annealing](https://github.com/TranDatDT/n-queens-simulated-annealing) - [AI] Solve N-Queens Problem with Simulated Annealing algorithm, optimized code.
 * [tikikun/no_accent_python3](https://github.com/tikikun/no_accent_python3) - No accent, just raw Vietnamese
 * [hvnsweeting/outspect](https://github.com/hvnsweeting/outspect) - Python inspect for Humans - truy cập nhanh functions, class, constant... trong modules
 * [hvnsweeting/phg](https://github.com/hvnsweeting/phg) - Password hasher and generator utility
