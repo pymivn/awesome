@@ -26,6 +26,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [tudoanh/python-facebook-bot](https://github.com/tudoanh/python-facebook-bot) - Get facebook events from location with Python 3
 * [quangvinh86/python-projecteuler](https://github.com/quangvinh86/python-projecteuler) - Code và phân tích "chiến lược" để giải các bài toán trên https://projecteuler.net bằng tiếng Việt.
 * [dactoankmapydev/PYTUDI](https://github.com/dactoankmapydev/PYTUDI) - English-Vietnamese,Vietnamese-English dictionary online
+* [vuonglv1602/savegalaxy](https://github.com/vuonglv1602/savegalaxy) - Game shoot 'em up đơn giản viết bằng pygame
 * [TranDatDT/ssh-configuring-multi-devices-simultaneously](https://github.com/TranDatDT/ssh-configuring-multi-devices-simultaneously) - Python script that helps you send SSH commands to multi devices simultaneously.
 * [tung491/VietsubPE](https://github.com/tung491/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Website: https://vietsubpe.xyz/
 * [tung491/wattpad_ebook_web](https://github.com/tung491/wattpad_ebook_web) - "Generate ebook from Wattpad stories. Website: https://www.wattpadebook.xyz/"
