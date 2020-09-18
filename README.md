@@ -31,6 +31,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [TranDatDT/ssh-configuring-multi-devices-simultaneously](https://github.com/TranDatDT/ssh-configuring-multi-devices-simultaneously) - Python script that helps you send SSH commands to multi devices simultaneously.
 * [tung491/VietsubPE](https://github.com/tung491/VietsubPE) - Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt. Website: https://vietsubpe.xyz/
 * [tung491/wattpad_ebook_web](https://github.com/tung491/wattpad_ebook_web) - "Generate ebook from Wattpad stories. Website: https://www.wattpadebook.xyz/"
+* [nttuyenx/WordCloud](https://github.com/nttuyenx/WordCloud) - The 'word cloud' generator from some text
 
 # Hỏi đáp Python, Django...
 
