@@ -19,6 +19,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 * [KindleManga/Kindlemanga](https://github.com/KindleManga/Kindlemanga) - "Collaboration of tudoanh and tung491" Bring manga to your e-reader. Website: https://kindlemanga.xyz/
 * [TranDatDT/must-do-interview-preparation](https://github.com/TranDatDT/must-do-interview-preparation) - The most frequently asked coding interview questions in big companies like Amazon, Google, Microsoft,...
 * [TranDatDT/n-queens-simulated-annealing](https://github.com/TranDatDT/n-queens-simulated-annealing) - [AI] Solve N-Queens Problem with Simulated Annealing algorithm, optimized code.
+* [ngocvinhvu/ngocvinhvu-deployed_webapp](https://github.com/ngocvinhvu/ngocvinhvu-deployed_webapp) - A small blog to find awesomejobs and posts in Familug.org. Link: http://ngocvinhvu-blog.herokuapp.com
 * [tikikun/no_accent_python3](https://github.com/tikikun/no_accent_python3) - No accent, just raw Vietnamese
 * [hvnsweeting/outspect](https://github.com/hvnsweeting/outspect) - Python inspect for Humans - truy cập nhanh functions, class, constant... trong modules
 * [hvnsweeting/phg](https://github.com/hvnsweeting/phg) - Password hasher and generator utility
