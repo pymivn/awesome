@@ -10,6 +10,7 @@ Tạo [Pull Request](https://github.com/pymivn/awesome/pulls) để thêm dự �
 
 * [hvnsweeting/birth-reminder](https://github.com/hvnsweeting/birth-reminder) - A script sends birthday reminder or happybirthday to emails in csv data file.
 * [tudoanh/bookzen](https://github.com/tudoanh/bookzen) - Compare online price of books. Also find and show the hashtag of book's name on Instagram. Homepage: https://bookzen.top
+* [trisduong/django-crawler](https://github.com/trisduong/django-crawler) - A small Django blog show awesomejobs Viet Nam and posts from Familug.org. Website: https://django-crawler.herokuapp.com
 * [tung491/DST-Bot](https://github.com/tung491/DST-Bot) - My Facebook Messages bot
 * [hvnsweeting/dwc](https://github.com/hvnsweeting/dwc) - `wc -l` clone in Python, plus support directory as argument
 * [tudoanh/get_fshare](https://github.com/tudoanh/get_fshare) - Python library to get Fshare link with your account.
